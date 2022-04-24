@@ -6,6 +6,14 @@ p {
 
 .centroTexto {
     text-align: center;
+    box-shadow: 10px 10px 5px black; /*Sombras a las cajas*/
+    border-radius: 20px; /*Bordes redondeados*/
+
+    /*Gradient*/
+    background: #007eff;
+    background: linear-gradient(11deg,#007eff 0%, #ff0009 80%);
+    background: -webkit-linear-gradient(11deg,#007eff 0%, #ff0009 80%);
+    background: -moz-linear-gradient(11deg,#007eff 0%, #ff0009 80%);
 }
 
 .centroImagen {
