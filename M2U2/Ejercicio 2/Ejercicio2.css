@@ -1,0 +1,20 @@
+.contenedor{
+    height: 500px;
+    background-color: white;
+	display: flex;
+    align-items: center;
+    border:1px solid black;
+}
+
+.item{
+	background-color: #ccc;
+    width: 100px;
+    height: 100px;
+    margin: 0px;
+    font-size: 30px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

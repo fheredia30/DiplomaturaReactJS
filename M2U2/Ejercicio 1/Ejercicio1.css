@@ -1,0 +1,19 @@
+.contenedor{
+    background-color: white;
+	display: flex;
+    flex-flow: column wrap;
+    align-content: flex-end;
+    border:1px solid black;
+}
+
+.item{
+	background-color: #ccc;
+	width: 100px;
+	height: 100px;
+	margin: 0px;
+	font-size: 30px;
+    color: white;
+    line-height: 100px;
+    text-align: center;
+}
+
